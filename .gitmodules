@@ -1,0 +1,6 @@
+[submodule "RMIServer"]
+	path = RMIServer
+	url = https://github.com/Guergeiro/RMIServer.git
+[submodule "RMIClient"]
+	path = RMIClient
+	url = https://github.com/Guergeiro/RMIClient.git
