@@ -2,7 +2,9 @@ version: "3.7"
 services:
   rmi-server:
     build: ./RMIServer
-    expose: "2022"
+    expose: 
+      - "2022"
   rmi-client:
     build: ./RMIClient/
-    depends_on: rmi-server
+    depends_on: 
+      - "rmi-server"
