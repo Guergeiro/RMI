@@ -5,5 +5,5 @@
 	path = RMIClient
 	url = https://github.com/Guergeiro/RMIClient.git
 [submodule "RMIRegistry"]
-	path = RMIClient
+	path = RMIRegistry
 	url = https://github.com/Guergeiro/RMIRegistry.git
