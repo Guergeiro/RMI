@@ -7,3 +7,6 @@
 [submodule "RMIRegistry"]
 	path = RMIRegistry
 	url = https://github.com/Guergeiro/RMIRegistry.git
+[submodule "RMIReplicaManager"]
+	path = RMIReplicaManager
+	url = https://github.com/Guergeiro/RMIReplicaManager.git
